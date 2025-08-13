@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3/U1fghgx98Adga/IxCzR5oLdBl2yx7YyhtO1pFnYbGLf7eHeOoXl9aJGzrq+VpIYmxnc4I9JDGnZvy7NceYg==",
+  "success": true,
+  "projectFilePath": "/data/Workspace/Bandcamp_Ripper/BandcampRipper/BandcampRipper.csproj",
+  "expectedPackageFiles": [
+    "/home/liberation/.nuget/packages/htmlagilitypack/1.12.2/htmlagilitypack.1.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/BandcampRipper
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/BandcampRipper.deps.json
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/BandcampRipper.runtimeconfig.json
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/BandcampRipper.dll
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/BandcampRipper.pdb
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.GeneratedMSBuildEditorConfig.editorconfig
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.AssemblyInfoInputs.cache
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.AssemblyInfo.cs
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.csproj.CoreCompileInputs.cache
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.dll
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/refint/BandcampRipper.dll
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.pdb
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.genruntimeconfig.cache
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/ref/BandcampRipper.dll
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/bin/Debug/net8.0/HtmlAgilityPack.dll
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.csproj.AssemblyReference.cache
+/data/Workspace/Bandcamp_Ripper/BandcampRipper/obj/Debug/net8.0/BandcampRipper.csproj.CopyComplete
